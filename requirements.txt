@@ -1,2 +1,7 @@
-pip install flask textblob
-python -m textblob.download_corpora
+Flask 
+flask-cors 
+gunicorn 
+Werkzeug==2.0.3 
+textblob==0.15.2 
+textblob-de 
+nltk 
